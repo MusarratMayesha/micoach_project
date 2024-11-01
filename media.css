@@ -1,21 +1,26 @@
 
 /* extra Small devices (portrait phones, less than 576px) */
 @media (max-width: 575.98px) { 
-    .b_text{
+    .b_text {
+        padding: -37px 0px;
         text-align: center;
+    }
+    .p_banner{
+        margin-left: 0;
     }
     .h1_banner{
         font-size: 34px;
     }
     .form-control{
-        width: 268px;
+        width: 300px;
         height: 50px;
     }
-    .cus-btn{
-        right: 30px;
-        width: 68px;
-        height: 40px;
-     }
+    .cus-btn {
+        right: -4px;
+        width: 70px;
+        height: 50px;
+    }
+
      .divider{
         width: 0px;
         height: 35px;
@@ -23,10 +28,39 @@
      .top{
         padding-top: 20px;
     }
-    /* .icon{
-        padding-top: 25px;
-    } */
-}
+    .icon {
+        margin-bottom: 30px;
+    }
+    .micoach {
+        padding: 25px 30px;
+        text-align: center;
+    }
+    .child2 {
+        top: 4px;
+        right: 200px;
+    }
+     h2, h2{
+        text-align: center;
+        padding-left: 75px;
+    }
+    .child3 {
+        right: 340px;
+    }
+    .lastbanner {
+        padding: 15px 20px;
+    }
+    .b_last {
+        text-align: center;
+    }
+    .lastimg {
+        padding: 0;
+        margin: 0;
+    }
+    .btnlast {
+        padding-left: 30px;
+    }
+}     
+
 
 
 

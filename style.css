@@ -6,7 +6,7 @@
     padding: 20px 0px;
 }
 .p_banner{
-    margin: 0;
+    margin-left: 45px;
     color: red;
 }
 .h1_banner{
@@ -39,3 +39,41 @@
 .icon{
     margin: -30px 49px;
 }
+
+.micoach{
+    padding: 40px 50px;
+}
+.parent2{
+    position: relative;
+}
+.child2{
+    position: absolute;
+    top: 7px;
+    right: 243px;
+    font-size: 30px;
+    color: rgb(248, 56, 56);
+}
+.lastbanner{
+    padding: 40px 20px;
+}
+.b_last{
+    padding: 35px 0;
+}
+.lastimg{
+    width: 100%;
+}
+.parent3{
+    position: relative;
+    left: 50px;
+}
+.child3{
+    position: absolute;
+    top: -7px;
+    right: 580px;
+    font-size: 30px;
+    color: rgb(248, 65, 65);
+}
+.btnlast{
+    padding: 20px 0;
+}
+
